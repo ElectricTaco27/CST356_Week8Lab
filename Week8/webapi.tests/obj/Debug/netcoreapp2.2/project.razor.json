@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\riggs\\OneDrive\\Documents\\School Work\\Oregon Institute of Technology\\Junior Year\\CST 356 - Web Design and Development\\Docker\\Week8\\webapi.tests\\webapi.tests.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
